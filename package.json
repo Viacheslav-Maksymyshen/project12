@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://alexvile.github.io/team-proj01",
+  "homepage": "https://viacheslav-maksymyshen.github.io/project12",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-proj01/"
+    "build": "parcel build src/*.html --public-url /project12/"
   },
   "repository": {
     "type": "git",
